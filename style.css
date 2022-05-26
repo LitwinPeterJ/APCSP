@@ -25,14 +25,16 @@
 	float: left;
 	padding-right: 20px;
 }
-.img3 {
-	width: 30%;
-	float: left;
-
-}
 .img4 {
 	width: 30%;
+	float: left;
+	padding-right: 20px;
+
+}
+.img3 {
+	width: 30%;
 	float: right;
+	padding-left: 20px;
 	
 }
 /* Add a black background color to the top navigation */
